@@ -1,2 +1,2 @@
 # Jogo Flappy Bird
- JogoFlappy Bird feito em linguagem python, utilizando a biblioteca pygame.
+ Jogo Flappy Bird feito em linguagem python, utilizando a biblioteca pygame.
